@@ -4,11 +4,15 @@ Powerline is a statusline plugin for vim, and provides statuslines and prompts f
 
 ![image](https://github.com/a110605/powerline-plugin/blob/master/picture/shell.png)
 
+
 <center> Shell Prompt </center>
+
 
 ![image](https://github.com/a110605/powerline-plugin/blob/master/picture/vim.png)
 
+
 <center> Vim Screenshot </center>
+
 
 
 ## Installation
