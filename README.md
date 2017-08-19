@@ -58,7 +58,7 @@ export PROMPT_COMMAND="powerline_shell; $PROMPT_COMMAND"
 # ./install.py
 ```
 
-More details installation information, visit [Powerline Official Documents](https://powerline.readthedocs.io/en/latest/) 
+More detail install information, visit [Powerline Official Documents](https://powerline.readthedocs.io/en/latest/) 
 
 ## References
 - [用Powerline美化你的Mac终端和Vim](http://www.jianshu.com/p/68ef9d2e1653)
