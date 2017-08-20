@@ -2,13 +2,17 @@
 Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 [https://github.com/powerline/powerline](https://github.com/powerline/powerline)
 
-![image](https://github.com/a110605/powerline/blob/master/picture/shell.png)
+<p align="center">
+  <b> Shell Prompt </b><br>
+<img src="https://github.com/a110605/powerline-plugin/blob/master/picture/shell.png">
+</p>
 
-<center> Shell Prompt </center>
 
-![image](https://github.com/a110605/powerline/blob/master/picture/vim.png)
+<p align="center">
+  <b> Vim Screenshot </b><br>
+<img src="https://github.com/a110605/powerline-plugin/blob/master/picture/vim.png">
+</p>
 
-<center> Vim Screenshot </center>
 
 
 ## Installation
@@ -54,7 +58,7 @@ export PROMPT_COMMAND="powerline_shell; $PROMPT_COMMAND"
 # ./install.py
 ```
 
-More details installation information, visit [Powerline Official Documents](https://powerline.readthedocs.io/en/latest/) 
+More detail install information, visit [Powerline Official Documents](https://powerline.readthedocs.io/en/latest/) 
 
 ## References
 - [用Powerline美化你的Mac终端和Vim](http://www.jianshu.com/p/68ef9d2e1653)
