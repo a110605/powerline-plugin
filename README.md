@@ -57,6 +57,21 @@ export PROMPT_COMMAND="powerline_shell; $PROMPT_COMMAND"
 # cd powerline-font
 # ./install.py
 ```
+### 5. Set tmux-powerline 
+```
+$ git clone https://github.com/a110605/tmux-powerline.git
+```
+
+Now append your ~/.tmux.conf to use the scripts:
+```
+set-option -g status on
+set-option -g status-interval 2
+set-option -g status-justify "centre"
+set-option -g status-left-length 60
+set-option -g status-right-length 90
+set-option -g status-left "#(~/path/to/tmux-powerline/powerline.sh left)"
+set-option -g status-right "#(~/path/to/tmux-powerline/powerline.sh right)"
+```
 
 More detail install information, visit [Powerline Official Documents](https://powerline.readthedocs.io/en/latest/) 
 
