@@ -14,6 +14,10 @@ Powerline is a statusline plugin for vim, and provides statuslines and prompts f
 </p>
 
 
+<p align="center">
+  <b> Tmux status bar</b><br>
+<img src="https://github.com/a110605/powerline-plugin/blob/master/picture/tmux.png">
+</p>
 
 ## Installation
 ### 1. Prequisitions
