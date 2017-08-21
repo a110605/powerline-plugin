@@ -79,6 +79,7 @@ set-option -g status-right "#(~/path/to/tmux-powerline/powerline.sh right)"
 
 More detail install information, visit [Powerline Official Documents](https://powerline.readthedocs.io/en/latest/) 
 
+and [tmux-powerline](https://github.com/erikw/tmux-powerline)
 ## References
 - [用Powerline美化你的Mac终端和Vim](http://www.jianshu.com/p/68ef9d2e1653)
 - [Powerline：漂亮的 Vim 狀態列與 Bash Shell 命令提示字串外掛](https://blog.gtwang.org/linux/powerline-adds-powerful-statuslines-and-prompts-to-vim-and-bash/)
